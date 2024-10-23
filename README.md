@@ -46,8 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
 
+![vlsi exp 2-1](https://github.com/user-attachments/assets/1160f4ab-ba5a-4f00-9a1e-366727014d56)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -63,7 +63,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ 
+![vlsi exp2-2](https://github.com/user-attachments/assets/b5187be3-64ab-4019-852e-0193388857d1)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +75,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ 
+![vlsi exp 2-3](https://github.com/user-attachments/assets/9e144934-d56e-41fa-a431-2d1361d45c2f)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,14 +88,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ ![vlsi exp2-4](https://github.com/user-attachments/assets/74d2912b-1704-41a3-aeca-5fd3968bb5bf)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ 
+![vlsi exp 2-5](https://github.com/user-attachments/assets/50e61fc6-9c7c-4939-a6cd-80948fc23186)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ 
 
-
+![vlsi exp 2-6](https://github.com/user-attachments/assets/37a27786-a539-4099-8b98-bbdae76a03cb)
 
  
 
